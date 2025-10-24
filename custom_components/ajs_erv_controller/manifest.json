@@ -1,0 +1,10 @@
+{
+  "domain": "ajs_erv_controller",
+  "name": "AJS ERV Controller",
+  "documentation": "https://github.com/asinning/ajs-erv-controller",
+  "issue_tracker": "https://github.com/asinning/ajs-erv-controller/issues",
+  "dependencies": [],
+  "config_flow": true,
+  "codeowners": ["@asinning"],
+  "requirements": []
+}
